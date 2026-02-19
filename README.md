@@ -55,7 +55,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-252525?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:saclarinha2704@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-252525?style=for-the-badge&logo=instagram)](https://www.instagram.com/saclarinhaa/)
-[![Discord](https://img.shields.io/badge/Discord-252525?style=for-the-badge&logo=discord&logoColor=ffffff)](discordapp.com/users/768276541678288912)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/clara-s-6a51603b2/)
 
 
