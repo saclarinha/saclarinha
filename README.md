@@ -8,7 +8,8 @@
 
 #
 
-<p align="center">Me chamo Clara Avelino, tenho 17 anos e sou estudante de Desenvolvimento de sistemas na escola Alberto Salotti.
+<p align="center">Me chamo Clara Avelino, tenho 17 anos e sou estudante de Desenvolvimento de sistemas na escola Alberto Salotti 
+e conclui o curso Desenvolvedor criativo e tecnológico na Brasil Mobile School.
   
 #
  
