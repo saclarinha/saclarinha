@@ -2,6 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%A7%CD%99%E2%81%BA%CB%9A*%EF%BD%A5%E0%BC%93%E2%98%BEWelcome+to+my+profile!%E2%80%A7%E2%81%BA%CB%9A*%EF%BD%A5%E0%BC%93%E2%98%BE" alt="Typing SVG" /></a>
+</div>
+
 ###
 ## Oiii eu sou a Clara Avelino, estudante de Técnico de Desenvolvimento de Sistemas!
   
