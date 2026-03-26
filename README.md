@@ -42,14 +42,12 @@ e conclui o curso Desenvolvedor criativo e tecnológico na Brasil Mobile School.
 
 ###
  
-<div> 
+<div align="center"> 
   
  	
   <a href = "mailto:saclarinha2704@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-7D2EDC?style=plastic&logo=Gmail&logoColor=FFFFFF&link=https%3A%2F%2Fwww.instagram.com%2Fsaclarinhaa%2F">
   <a href="https://www.linkedin.com/in/clara-s-6a51603b2/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-7D2EDC?style=plastic&logo=Linkedin&logoColor=FFFFFF&link=https%3A%2F%2Fwww.instagram.com%2Fsaclarinhaa%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-7D2EDC?style=plastic&logo=Instagram&logoColor=FFFFFF&link=https%3A%2F%2Fwww.instagram.com%2Fsaclarinhaa%2F">
-
-
+ 
   
 </div>
 
