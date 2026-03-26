@@ -42,10 +42,12 @@ e conclui o curso Desenvolvedor criativo e tecnológico na Brasil Mobile School.
 
 ###
  
-<div> 
- 	<a href="https://www.instagram.com/saclarinhaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:saclarinha2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/clara-s-6a51603b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  
+ 	<a href="https://www.instagram.com/saclarinhaa/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-7D2EDC?style=plastic&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fsaclarinhaa%2F">
+  <a href = "mailto:saclarinha2704@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-7D2EDC?style=plastic&logo=Gmail&logoColor=FFFFFF&link=https%3A%2F%2Fwww.instagram.com%2Fsaclarinhaa%2F">
+  <a href="https://www.linkedin.com/in/clara-s-6a51603b2/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-7D2EDC?style=plastic&logo=Linkedin&logoColor=FFFFFF&link=https%3A%2F%2Fwww.instagram.com%2Fsaclarinhaa%2F">
+ 
   
 </div>
 
