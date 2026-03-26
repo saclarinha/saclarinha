@@ -34,9 +34,10 @@ e conclui o curso Desenvolvedor criativo e tecnológico na Brasil Mobile School.
 </div>
 
 ###
-
 <div align="center">
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saclarinha&theme=midnight_purple)
+
 </div>
 
 ###
